@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mtt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_wcauth">WCAuthActivity</string>
+    <string name="title_activity_wcshare">WCShareActivity</string>
+    <string name="title_activity_wxentry">WXEntryActivity</string>
+    <string name="title_activity_navi">NaviActivity</string>
+    <string name="title_activity_wbshare_req">WBShareReqActivity</string>
+    <string name="title_activity_wxauth">WXAuthActivity</string>
+
+</resources>

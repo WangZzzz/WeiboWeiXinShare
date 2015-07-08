@@ -1,0 +1,26 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:id="@+id/navi_wx_friends"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分享到微信朋友"/>
+    
+    <Button
+        android:id="@+id/navi_wx_moments"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分享到微信朋友圈"/>
+    
+    <Button
+        android:id="@+id/navi_wb"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分享到微博"/>
+</LinearLayout>
